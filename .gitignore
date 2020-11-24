@@ -1,0 +1,10 @@
+data_faces2
+data_faces
+*.mp4
+*.mov
+img_data
+.pynb_checkpoints
+*.log
+*.h5
+*.pdf
+*.pickle
