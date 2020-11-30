@@ -8,3 +8,5 @@ img_data
 *.h5
 *.pdf
 *.pickle
+.ipynb_checkpoints
+.vscode
