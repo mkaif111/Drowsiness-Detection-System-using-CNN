@@ -1,5 +1,4 @@
-# Drowsiness-Detection-System
-Drowsiness Detection System is a system which alert the driver whenever he/she in drowsy state. This model is creating using neural networks and tensorflow python library.
+
 # Drowsy Driving Problem:
 Drowsy drivers may cause nearly a third of all deadly car crashes according to federal statistics and a study at the University of Pennsylvania Health System proves the danger. According to Dr. Michael Grandner “A lot of people don’t realize that more serious crashes are caused by falling asleep at the wheel than alcohol”. “Though we’ve all heard of drunk driving, we haven’t heard much about drowsy driving, but it’s a major health problem and safety problem.” Dr. Grandner, a member of the Center for Sleep and Circadian Neurobiology, says a survey of more than 17,000 people showed that most people need at least seven hours of sleep each night. While distracted driving has been getting a lot of attention lately, drowsy driving remains a major risk for motor vehicle crashes.
 Two out of every five drivers (41%) admit to having fallen asleep at the wheel at some point. One in ten said they have done so in the past year according to a new AAA Foundation for Traffic Safety Study.
