@@ -5,9 +5,10 @@ data_faces
 img_data
 .pynb_checkpoints
 *.log
-*.h5
+
 *.pdf
 *.pickle
 *.ipynb_checkpoints
+*.avi
 *.vscode
 test
